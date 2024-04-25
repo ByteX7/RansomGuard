@@ -1,4 +1,8 @@
-##⚠️ Warning: This script is provided for educational purposes only. Do not use it for malicious intent. Unauthorized use of this script to engage in any form of cybercrime, including ransomware attacks, is illegal and unethical. By accessing or using this script, you agree that you are solely responsible for your actions and their consequences. Misuse of this script may result in severe legal penalties and damage to individuals, organizations, and communities. Use it responsibly and ethically to enhance your understanding of cybersecurity and to develop defensive measures against real-world threats. 🛡️ #SecurityAwareness #EthicalHacking##
+# ⚠️ Warning: This script is provided for educational purposes only. Do not use it for malicious intent. 
+# Unauthorized use of this script to engage in any form of cybercrime, including ransomware attacks, is illegal and unethical. 
+# By accessing or using this script, you agree that you are solely responsible for your actions and their consequences. 
+# Misuse of this script may result in severe legal penalties and damage to individuals, organizations, and communities. 
+# Use it responsibly and ethically to enhance your understanding of cybersecurity and to develop defensive measures against real-world threats. 🛡️ #SecurityAwareness #EthicalHacking##
 
 import os
 import random
