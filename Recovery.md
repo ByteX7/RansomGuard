@@ -1,10 +1,10 @@
 ## What to Do if Infected by Ransomware
 
-🛡️ **Introduction 💻🔓**
+### Introduction
 
 Ransomware is a form of malware that encrypts a system's files and demands a ransom in exchange for the decryption key. If you've fallen victim to a ransomware attack, it's important to remain calm and follow specific procedures to attempt to recover your files without succumbing to the demands of the criminals.
 
-🔄 **Recovery Options**
+### Recovery Options
 
 💾 **1. Backup**
    If you have a recent backup of your files, you can restore them from the backup. Regular backups are one of the best practices to protect your data against ransomware and other forms of data loss.
