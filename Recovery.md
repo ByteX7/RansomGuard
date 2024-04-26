@@ -1,4 +1,4 @@
-# What to Do if Infected by Ransomware
+## What to Do if Infected by Ransomware
 
 🛡️ **Introduction 💻🔓**
 
