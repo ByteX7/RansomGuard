@@ -1,4 +1,4 @@
-### ☣️ This is a script that simulates an advanced ransomware, with various typical functionalities of real malware. I'll explain each part of the script:
+## ☣️ This is a script that simulates an advanced ransomware, with various typical functionalities of real malware. I'll explain each part of the script:
 
 1. **Importing Libraries:**
    - Imports standard Python libraries like `os`, `random`, `string`, `hashlib`, `base64`, `requests`, `shutil`, `threading`, and `subprocess`. These libraries are used for performing operations on the operating system, generating random numbers, manipulating strings, making HTTP requests, among other functionalities.
